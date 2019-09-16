@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images ">
+        <file>images/beeHive.png</file>
+        <file>images/Indiv_Bee.png</file>
+        <file>images/BeehiveEdited1.png</file>
+        <file>images/MainBeeHive.png</file>
+        <file>images/BeehiveEdited5.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sound/beeSound.wav</file>
+        <file>sound/beesounds.mp3</file>
+    </qresource>
+</RCC>
