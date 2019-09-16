@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/Bee_Pics">
+        <file>Indiv_Bee.png</file>
+    </qresource>
+</RCC>
